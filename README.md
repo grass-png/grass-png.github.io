@@ -9,7 +9,7 @@ body {
 </style>
 </head>
 
-<a href="https://grass-png.github.io/linbrak/"><img src="burning text linbrak island.gif" height="900" with="300" alt="Linbrak island website"></a>
-<a href="https://grass-png.github.io/funnywebsite/"><img src="Funnywebsite text.png" height="900" with="300" alt="random crap"></a>
-<a href="https://grass-png.github.io/purplecar.github.io/"><img src="PurpleCar.png" height="900" with="300" alt="random crap part two edition (FULL GAMEPLAY)"></a>
+<a href="https://grass-png.github.io/linbrak/"><img src="burning text linbrak island.gif" height="300" width="900" alt="Linbrak island website"></a>
+<a href="https://grass-png.github.io/funnywebsite/"><img src="Funnywebsite text.png" height="300" width="900" alt="random crap"></a>
+<a href="https://grass-png.github.io/purplecar.github.io/"><img src="PurpleCar.png" height="300" width="900" alt="random crap part two edition (FULL GAMEPLAY)"></a>
 
